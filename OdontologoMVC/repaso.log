@@ -1,0 +1,89 @@
+[2024-03-22 16:49:02] [ INFO ] [OdontologoController:33] Estamos creando un odontologo: com.dh.OdontologoMVC.entity.Odontologo@58a54aa0
+[2024-03-22 16:50:37] [ INFO ] [OdontologoController:33] Estamos creando un odontologo: com.dh.OdontologoMVC.entity.Odontologo@57a8c4bd
+[2024-03-22 16:54:31] [ INFO ] [OdontologoController:33] Estamos creando un odontologo: com.dh.OdontologoMVC.entity.Odontologo@443c545a
+[2024-03-22 16:54:48] [ INFO ] [OdontologoController:33] Estamos creando un odontologo: com.dh.OdontologoMVC.entity.Odontologo@19f096f5
+[2024-03-22 16:55:10] [ INFO ] [OdontologoController:33] Estamos creando un odontologo: com.dh.OdontologoMVC.entity.Odontologo@376378bf
+[2024-03-22 16:55:40] [ INFO ] [OdontologoController:39] Estamos llamando a todos los odontologos
+[2024-03-22 17:00:08] [ INFO ] [OdontologoController:39] Estamos llamando a todos los odontologos
+[2024-03-22 17:00:15] [ INFO ] [OdontologoController:33] Estamos creando un odontologo: com.dh.OdontologoMVC.entity.Odontologo@7932fa3d
+[2024-03-22 17:00:30] [ INFO ] [OdontologoController:33] Estamos creando un odontologo: com.dh.OdontologoMVC.entity.Odontologo@683df0ae
+[2024-03-22 17:00:54] [ INFO ] [OdontologoController:33] Estamos creando un odontologo: com.dh.OdontologoMVC.entity.Odontologo@19049a44
+[2024-03-22 17:00:58] [ INFO ] [OdontologoController:39] Estamos llamando a todos los odontologos
+[2024-03-22 17:01:19] [ INFO ] [OdontologoController:39] Estamos llamando a todos los odontologos
+[2024-03-22 17:05:28] [ INFO ] [OdontologoController:39] Estamos llamando a todos los odontologos
+[2024-03-22 17:18:04] [ INFO ] [OdontologoController:39] Estamos llamando a todos los odontologos
+[2024-03-22 17:18:57] [ INFO ] [OdontologoController:39] Estamos llamando a todos los odontologos
+[2024-03-22 18:04:45] [ INFO ] [OdontologoController:39] Estamos llamando a todos los odontologos
+[2024-03-22 20:44:22] [ INFO ] [OdontologoController:39] Estamos llamando a todos los odontologos
+[2024-03-22 20:44:51] [ INFO ] [OdontologoController:39] Estamos llamando a todos los odontologos
+[2024-03-22 20:46:18] [ INFO ] [OdontologoController:33] Estamos creando un odontologo: com.dh.OdontologoMVC.entity.Odontologo@1c9f6a9a
+[2024-03-22 20:47:27] [ INFO ] [OdontologoController:33] Estamos creando un odontologo: com.dh.OdontologoMVC.entity.Odontologo@1c186bc
+[2024-03-22 20:47:52] [ INFO ] [OdontologoController:33] Estamos creando un odontologo: com.dh.OdontologoMVC.entity.Odontologo@1694dfdb
+[2024-03-22 20:47:59] [ INFO ] [OdontologoController:39] Estamos llamando a todos los odontologos
+[2024-03-22 20:48:28] [ INFO ] [OdontologoController:39] Estamos llamando a todos los odontologos
+[2024-03-22 20:50:12] [ INFO ] [OdontologoController:39] Estamos llamando a todos los odontologos
+[2024-03-22 21:57:49] [ INFO ] [OdontologoController:33] Estamos creando un odontologo: com.dh.OdontologoMVC.entity.Odontologo@2c22fa3c
+[2024-03-22 21:59:40] [ INFO ] [OdontologoController:39] Estamos llamando a todos los odontologos
+[2024-03-26 16:00:50] [ INFO ] [OdontologoController:35] Estamos creando un odontologo: com.dh.OdontologoMVC.dto.request.OdontologoRequestDTO@2881423a
+[2024-03-26 16:18:44] [ INFO ] [OdontologoController:35] Estamos creando un odontologo: com.dh.OdontologoMVC.dto.request.OdontologoRequestDTO@3894b49a
+[2024-03-26 16:19:07] [ INFO ] [OdontologoController:35] Estamos creando un odontologo: com.dh.OdontologoMVC.dto.request.OdontologoRequestDTO@564b3245
+[2024-03-26 16:24:32] [ INFO ] [OdontologoController:35] Estamos creando un odontologo: com.dh.OdontologoMVC.dto.request.OdontologoRequestDTO@2c2e486
+[2024-03-26 16:27:34] [ INFO ] [OdontologoController:43] Estamos llamando a todos los odontologos
+[2024-03-26 16:27:41] [ INFO ] [OdontologoController:35] Estamos creando un odontologo: com.dh.OdontologoMVC.dto.request.OdontologoRequestDTO@69348e0e
+[2024-03-26 16:27:47] [ INFO ] [OdontologoController:43] Estamos llamando a todos los odontologos
+[2024-03-26 16:35:38] [ INFO ] [OdontologoController:35] Estamos creando un odontologo: com.dh.OdontologoMVC.dto.request.OdontologoRequestDTO@18044240
+[2024-03-26 17:16:03] [ INFO ] [OdontologoController:43] Estamos llamando a todos los odontologos
+[2024-03-26 17:16:05] [ INFO ] [OdontologoController:43] Estamos llamando a todos los odontologos
+[2024-03-28 17:45:22] [ INFO ] [PacienteController:29] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@7d5abbbb
+[2024-03-28 17:56:29] [ INFO ] [PacienteController:30] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@358346e
+[2024-03-28 18:03:24] [ INFO ] [PacienteController:30] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@73135cc7
+[2024-03-28 18:13:20] [ INFO ] [PacienteController:27] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@6109f8e7
+[2024-03-28 18:13:30] [ INFO ] [PacienteController:27] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@2969744e
+[2024-03-28 18:18:44] [ INFO ] [PacienteController:28] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@7b9e97b8
+[2024-03-28 18:44:22] [ INFO ] [PacienteController:28] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@52492
+[2024-03-28 18:54:08] [ INFO ] [PacienteController:29] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@6ba1419e
+[2024-03-28 19:00:57] [ INFO ] [OdontologoController:35] Estamos creando un odontologo: com.dh.OdontologoMVC.dto.request.OdontologoRequestDTO@5787450e
+[2024-03-28 19:02:48] [ INFO ] [TurnoController:36] esto trae un turno: com.dh.OdontologoMVC.dto.request.TurnoRequestDTO@3a7b3ab3
+[2024-03-28 19:22:47] [ INFO ] [PacienteController:29] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@5a8c784d
+[2024-03-28 19:22:57] [ INFO ] [PacienteController:37] Buscando paciente id 1
+[2024-03-28 19:38:48] [ INFO ] [PacienteController:29] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@3d937566
+[2024-03-28 19:38:53] [ INFO ] [PacienteController:37] Buscando paciente id 1
+[2024-03-28 19:41:52] [ INFO ] [PacienteController:29] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@7e696638
+[2024-03-28 19:41:58] [ INFO ] [PacienteController:37] Buscando paciente id 1
+[2024-03-29 10:05:10] [ INFO ] [PacienteController:29] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@586f5a09
+[2024-03-29 10:05:26] [ INFO ] [PacienteController:29] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@132b5d8f
+[2024-03-29 10:05:45] [ INFO ] [PacienteController:37] Buscando paciente id 1
+[2024-03-29 10:07:28] [ INFO ] [PacienteController:29] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@208a248
+[2024-03-29 10:07:45] [ INFO ] [PacienteController:37] Buscando paciente id 3
+[2024-03-29 10:11:04] [ INFO ] [PacienteController:29] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@27624e67
+[2024-03-29 10:11:19] [ INFO ] [PacienteController:37] Buscando paciente id 1
+[2024-03-29 10:11:29] [ INFO ] [PacienteController:37] Buscando paciente id 1
+[2024-03-29 10:12:37] [ INFO ] [PacienteController:29] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@38d16859
+[2024-03-29 10:12:41] [ INFO ] [PacienteController:37] Buscando paciente id 1
+[2024-03-29 10:13:22] [ INFO ] [PacienteController:37] Buscando paciente id 4
+[2024-03-29 10:23:55] [ INFO ] [PacienteController:29] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@2a3e11ff
+[2024-03-29 10:24:10] [ INFO ] [PacienteController:37] Buscando paciente id 1
+[2024-03-29 10:24:15] [ INFO ] [PacienteController:37] Buscando paciente id 4
+[2024-03-29 10:38:29] [ INFO ] [PacienteController:29] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@224ce353
+[2024-03-29 10:38:57] [ INFO ] [PacienteController:37] Buscando paciente id 1
+[2024-03-29 10:44:25] [ INFO ] [PacienteController:29] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@e67f392
+[2024-03-29 10:44:31] [ INFO ] [PacienteController:37] Buscando paciente id 1
+[2024-03-29 10:44:36] [ INFO ] [PacienteController:37] Buscando paciente id 2
+[2024-03-29 10:50:43] [ INFO ] [PacienteController:29] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@55c31923
+[2024-03-29 10:50:50] [ INFO ] [PacienteController:37] Buscando paciente id 1
+[2024-03-29 10:52:16] [ INFO ] [PacienteController:29] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@4cdb89ac
+[2024-03-29 10:52:20] [ INFO ] [PacienteController:37] Buscando paciente id 1
+[2024-03-29 10:58:17] [ INFO ] [PacienteController:29] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@c4fd1c4
+[2024-03-29 10:58:22] [ INFO ] [PacienteController:37] Buscando paciente id 1
+[2024-03-29 11:26:25] [ INFO ] [PacienteController:30] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@6cd9003a
+[2024-03-29 11:29:04] [ INFO ] [PacienteController:30] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@822cc9a
+[2024-03-29 11:52:31] [ INFO ] [PacienteController:30] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@366bf1f6
+[2024-03-29 11:56:26] [ INFO ] [PacienteController:30] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@2b659551
+[2024-03-29 12:08:02] [ INFO ] [PacienteController:30] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@6b28a10
+[2024-03-29 12:13:11] [ INFO ] [PacienteController:30] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@3bc46816
+[2024-03-29 12:16:15] [ INFO ] [PacienteController:30] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@5e82a065
+[2024-03-29 12:19:10] [ INFO ] [PacienteController:30] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@33500b38
+[2024-03-29 12:23:01] [ INFO ] [PacienteController:30] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@140ba7f6
+[2024-03-29 12:27:38] [ INFO ] [PacienteController:30] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@37a7b7c
+[2024-03-29 15:02:21] [ INFO ] [PacienteController:27] Creando pacientecom.dh.OdontologoMVC.dto.request.PacienteRequestDTO@3f80778
+[2024-03-29 15:02:45] [ INFO ] [PacienteController:35] Buscando paciente id 1
